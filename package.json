@@ -1,0 +1,32 @@
+{
+  "name": "clicreate",
+  "version": "1.0.0",
+  "description": "vue-cli 从 0 到 1 搭建",
+  "main": "index.js",
+  "bin": {
+    "clicreate": "init.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/179778978/CliCreate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/179778978/CliCreate/issues"
+  },
+  "homepage": "https://github.com/179778978/CliCreate#readme",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
+  },
+  "dependencies": {}
+}
